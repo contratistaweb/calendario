@@ -1,0 +1,15 @@
+VERSIÓN PHP
+para entrar se ingresa con correo electronico y contraseña
+
+|NOMBRE       			|FECHA NACIMIENTO	|CORREO	      			|CONTRASEÑA
+
+|luillin Escobar	      	|1986/05/17      	|luillin.escobar@example.com  	|123456
+
+|Luigi Segundo 			|1992/01/16      	|luigi.segundo@example.com	|123456
+
+|Santiago Escobar 		|2017/08/19   		|santiago.escobar@example.com	|123456
+
+
+|CORREO	      	 		|CONTRASEÑA
+
+|luillin.escobar@example.com	|0123456
